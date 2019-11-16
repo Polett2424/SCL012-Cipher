@@ -1,15 +1,116 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="root">
-      <h1>Hola mundo!</h1>
+<head>
+
+ <meta charset="utf-8">  
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href=" style.css">
+  <!--Se agregan fuentes de google-->
+ 
+ 
+</head>
+
+<body>
+  <header>
+    <div id="banner" class="cabeza">
+      <div class="logo">
+       <img src="img/logo.png">
     </div>
-    <script src="cipher.js"></script>
-    <script src="index.js"></script>
-  </body>
+  </header>
+
+
+<section class="cuerpo">
+  <article id="introduccion">
+    <div class="tex"> <p>
+       En la actualidad del siglo XXI los niños gastan una parte importante 
+       de su tiempo en tablet , teléfonos, computadoras, televisión y consolas. 
+       Lo que preocupa a todos los padres es que pueda encontrar contenido no adecuado 
+       a su edad o la comunicación inadecuada con amigos o desconocidos.
+
+       En esta pagina queremos darle a los padres una pequeña ayuda al proporciona un 
+       cifrado para las claves que se coloquen en los artefactos de sus hijos.
+        
+      </p>
+     </div>
+    </article>
+  
+
+  <article id= "container">
+    
+    <div class="intrucciones">
+      <div class="desplazamiento">
+          <label class="label">Ingrese N° de desplazamiento</label>
+          <input type="number" id="n_offset_e" class="n_offset_style " style="width : 35px; height: 35px;">
+      </div>
+
+  </div>
+    <div id="oneBox">
+   <p>Ingresa tu propuesta de clave</p>
+   <input type="text" placeholder="Ingresa tu propuesta de clave" id="textMessage">
+ </div>
+
+ 
+ 
+ 
+ 
+ <div id="botones">
+   <button id ="clickEncode" class="cipherbuttons">Cifrar</button>
+   <button id ="clickDecode" class="cipherbuttons">Descifrar</button>
+ </div>
+
+ <div id="secondBox">
+   <p>Tu nueva clave es:</p>
+ <input type="text" placeholder="Descubre tu mensaje" name="" id="cipherContent"> 
+ 
+ </div>
+ 
+ <div id="final">
+   
+   <input type="reset" value="Limpiar" id="clear" class="finalboton">
+   
+ </div>
+ </article>
+   
+
+
+
+
+
+    
+
+  
+
+</section>
+
+
+
+
+
+    <footer class="pie" style="width: 100%;">
+
+      <span>Derechos reservados Polet Quezada</span>
+      
+    
+    </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<div id="root"> <h1>Hola Mundo</h1> </div>-->
+<script src="cipher.js"></script>
+<script src="index.js"></script>
+
+</body>
 </html>

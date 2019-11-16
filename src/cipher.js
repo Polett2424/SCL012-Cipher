@@ -7,3 +7,4 @@ window.cipher = {
     /* Acá va tu código */
   }
 };
+© 2019 GitHub, Inc

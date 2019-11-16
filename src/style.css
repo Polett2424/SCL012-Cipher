@@ -1,1 +1,161 @@
-/* Acá va tu código */
+a { text-decoration: none; }
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color:#FFFFFF; 
+   	font-size: 18px; 
+    margin: 0px !important;
+    padding: 0px !important;
+   
+   	
+   }
+   img{
+    width:400px;
+    height:102px;
+    padding: 3px;
+  } 
+
+  .cuerpo {
+   
+	  background: rgba(24, 160, 251, 0.15);
+	  width: 100%;
+	  height:100%;
+    text-align: center;
+
+  }
+ 
+  h1{
+    font-family: 'Montserrat', sans-serif;
+    font-style: 'black';
+    font-size: 16px;
+    
+  }
+    
+
+  /*.tex {
+    background: #FFFFFF;
+    position: absolute;
+    width: 1248px;
+    height: 228px;
+    left: 86px;
+    top: 197px;
+    
+    
+    border-radius: 20px;
+    position: absolute;
+
+
+  }
+  */
+  p{
+    font-family: 'Montserrat', sans-serif;
+    font-style: 'blold';
+    font-size: 16px;
+    text-align: justify;
+  }
+
+  .desplazamiento{
+    margin-left: 2px;
+	  margin-top: 2px;
+  }
+
+
+
+ #extMessage{
+    width: 434px;
+    height: 99px;
+    left: 458px;
+    top: 701px;
+    
+    background: rgba(196, 196, 196, 0.29);
+    border-radius: 20px
+
+
+
+
+ }
+
+
+
+
+  
+
+  #bcenter{
+    margin: auto;
+    padding: auto;
+    float: right;
+    justify-content: center;
+   align-items: center;
+   float: right;
+   margin-top: 10px;
+   margin-bottom: 20px;
+   }
+
+  /*botones */
+
+  button{
+
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #FFFFFF;
+    /* Actionable Item */
+
+    border: 3px solid #18A0FB;
+    box-sizing: border-box;
+    border-radius: 30px;
+	  }
+	.firstbutton{
+		margin-left: 500px;
+	}
+
+  #clear{
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #FFFFFF;
+    /* Actionable Item */
+
+    border: 3px solid #18A0FB;
+    box-sizing: border-box;
+    border-radius: 30px;
+
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  footer{
+    text-align: center;
+    background-color: #FFFFFF(45, 70, 141) !important;
+    color:#656768;
+    height:auto;
+    width: 100% !important;	
+    font-family: 'Montserrat', sans-serif;
+    font-style: 'blold';
+    font-size: 24px;
+
+}
+@media only screen and (min-width: 200px){
+	footer{
+		margin: 0px!important;
+		padding: 0px !important;
+		background-color: #FFFFFF(45, 70, 141) !important;
+		color: #656768;
+		width: 100% !important;	
+	}  
+  }
