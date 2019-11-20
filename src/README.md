@@ -22,7 +22,7 @@ Esta aplicacion web va dirigido a todos los padres mayores de 18 años.
 
 En un principio se penso en crear un diseño simple y facil de usar , con tamaño de fuente y botones de gran tamaño, conciderando que algunos padres tienen problemas con los tamaños mas pequeños.
 
-![primer prototipo ](https://i.ibb.co/5RTVC9Q/4.jpg)
+![primer prototipo ](https://i.ibb.co/nw1pdWs/2-2.jpg)
 
 se define la jerarquia  y la cantidad de botones.
 
@@ -39,11 +39,11 @@ Luego de realizar 5 test, se sugirio realizar algunos cambios como:
 
 * Una mejor jerarquia: cabeza, cuerpo y pie.
 
-![primer prototipo figma](https://i.ibb.co/GJwRws5/6.jpg)
+![primer prototipo figma](https://i.ibb.co/SvcM89j/1-1.jpg)
 
 se hace una comparativa de prototipo 1 y 2
 
-![comparacion prototipo figma](https://i.ibb.co/41Lv8GF/1.jpg)
+![comparacion prototipo figma](https://i.ibb.co/nPCdrNH/33.jpg)
 
 se decide crear un logo 
 
@@ -51,7 +51,7 @@ se decide crear un logo
 
 y el prototipo final 
 
-![segundo prototipo figma](https://i.ibb.co/tm3k3RT/f-3.png)
+![primer prototipo figma](https://i.ibb.co/tm3k3RT/f-3.png)
 
 Despúes de terminar el prototipo final, fue testeado otra ves y con resultados favorables cumple con informarcion y funcionalidad.
 
