@@ -31,7 +31,7 @@ se define la jerarquia  y la cantidad de botones.
 
 se define color 
 
-![segundo prototipo ](https://i.ibb.co/RcpCSGF/f-2.png)
+![segundo prototipo color ](https://i.ibb.co/RcpCSGF/f-2.png)
 
 Luego de realizar 5 test, se sugirio realizar algunos cambios como:
 
@@ -43,15 +43,15 @@ Luego de realizar 5 test, se sugirio realizar algunos cambios como:
 
 se hace una comparativa de prototipo 1 y 2
 
-![primer prototipo figma](https://i.ibb.co/41Lv8GF/1.jpg)
+![comparacion prototipo figma](https://i.ibb.co/41Lv8GF/1.jpg)
 
 se decide crear un logo 
 
-![primer prototipo figma](https://i.ibb.co/cy0Wx3t/logo.png)
+![logo prototipo figma](https://i.ibb.co/cy0Wx3t/logo.png)
 
 y el prototipo final 
 
-![primer prototipo figma](https://i.ibb.co/tm3k3RT/f-3.png)
+![segundo prototipo figma](https://i.ibb.co/tm3k3RT/f-3.png)
 
 Despúes de terminar el prototipo final, fue testeado otra ves y con resultados favorables cumple con informarcion y funcionalidad.
 
